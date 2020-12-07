@@ -1,4 +1,4 @@
-project(pr01_single_thread_server)
+project(ping)
 
 include_directories(include)
 file(GLOB SRC src/*.cpp src/*.cxx)
